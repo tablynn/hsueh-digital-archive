@@ -20,7 +20,7 @@ function ThemedCollections() {
                 <h3 className="view-button">View Collection</h3>
             </div>
             <div className="col-sm">
-                <img src={image1} className="collection-image"></img>
+                <img src={image1} className="collection-image" alt=""></img>
             </div>
         </div>
         </>
