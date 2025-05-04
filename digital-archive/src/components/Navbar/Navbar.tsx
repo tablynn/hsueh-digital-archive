@@ -3,9 +3,9 @@ import './Navbar.css'
 function Navbar() {
     return(
         <nav id="navbar" className="navbar navbar-expand-lg navbar-light bg-light">
-            <a id="nav-header" className="navbar-brand">
+            <h3 id="nav-header" className="navbar-brand">
                 HSUEH DIGITAL ARCHIVE
-            </a>
+            </h3>
             <div className="navbar-nav">
                 <a className="nav-item nav-link active" href="/hsueh-digital-archive">Home</a>
                 <div className="nav-item dropdown">
