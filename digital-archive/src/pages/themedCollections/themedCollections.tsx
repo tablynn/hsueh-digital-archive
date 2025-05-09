@@ -54,10 +54,10 @@ function ThemedCollections() {
                 <h3 className="collection-title">Family Portraits</h3>
                 <p className="collection-text">
                     Family portraits in the mid 20th century were hard to come by, and each
-                    image represents key moments in time often separated by many years. 
+                    image represented key moments in time often separated by many years. 
                     As the decades progress, these portraits are easier to take, and can capture
                     more than just big milestones. As this collection progresses, the pictures
-                    get more frequent and more casual —- photographs no longer a rare commodity.
+                    get more frequent and more casual — photographs no longer a rare commodity.
                     These photos span over sixty years.
 
                 </p>
